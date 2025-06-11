@@ -1,6 +1,7 @@
 # 👾 Bienvenue sur mon profil GitHub
 
-![Pixel Divider](https://i.ibb.co/gRwsLcB/pixel-divider.png)
+![Pixel Banner](./loading.png)
+
 
 ## À propos de moi :
 
