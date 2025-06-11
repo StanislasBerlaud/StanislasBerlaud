@@ -16,9 +16,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=StanislasBerlaud&color=blue)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislasBerlaud&show_icons=true&theme=radical)
-
 ## About Me :
 
 ```plaintext
