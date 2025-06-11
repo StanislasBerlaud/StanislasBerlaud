@@ -12,7 +12,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StanislasBerlaud&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=StanislasBerlaud&theme=dracula)
+### 💼 Projets récents
+- [📝 Old School Snake Game](https://github.com/TonUser/SnakeGame) - Snake en Python façon années 80
+- [⚙️ Mini Shell](https://github.com/TonUser/MiniShell) - Un mini shell Unix en C
+
 
 
 ## About Me :
