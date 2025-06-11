@@ -4,10 +4,15 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=print('Hello%2C+World');10+PRINT+'HELLO+WORLD';System.out.println("Hello%2C+World!");console.log("Hello%2C+World!");printf("Hello%2C+World!%5Cn");echo+"Hello+World";)
 
+### 🛠️ Langages & Outils
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## About Me :
 
 ```plaintext
-> First-year computer science student.
+> First-year computer science student. ✌
 > Passionate about development, technology and problem solving.
 > Curious, motivated, and always improving.
