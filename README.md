@@ -1,4 +1,5 @@
 # 👾 Welcome to StanislasBerlaud's GitHub
+👋 Hi, I'm Stan - passionate about code, always ready to sit down and wrestle with problems ☕.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+GitHub;Computer+Science+Student;Always+Learning+Something+New...)](https://git.io/typing-svg)
 
@@ -6,11 +7,11 @@
 
 ### 🛠️ Langages & Outils
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StanislasBerlaud&show_icons=true&theme=radical)
 
