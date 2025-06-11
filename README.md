@@ -12,6 +12,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StanislasBerlaud&show_icons=true&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=StanislasBerlaud&theme=dracula)
+
 
 ## About Me :
 
