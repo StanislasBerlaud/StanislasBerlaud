@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=print('Hello%2C+World');10+PRINT+'HELLO+WORLD';System.out.println("Hello%2C+World!");console.log("Hello%2C+World!");printf("Hello%2C+World!%5Cn");echo+"Hello+World";)
 
-### 🛠️ Langages & Outils
+### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
