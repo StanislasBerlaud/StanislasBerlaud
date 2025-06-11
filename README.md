@@ -3,7 +3,7 @@
 ![Pixel Banner](https://media.giphy.com/media/3o7TKxohZzQJZZ1Ekw/giphy.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+Pixel+World;Computer+Science+Student;Always+Learning+Something+New...)](https://git.io/typing-svg)
-
+![Effet Snake](https://monserveur.com/mon-snake-animation.svg)
 ## About Me :
 
 ```plaintext
