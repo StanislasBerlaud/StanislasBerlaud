@@ -1,4 +1,4 @@
-# 👾 Welcome to StanislasBerlaud's GitHub
+# Welcome to StanislasBerlaud's GitHub
 👋 Hi, I'm Stan - passionate about code, always ready to sit down and wrestle with problems ☕.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+GitHub;Computer+Science+Student;Always+Learning+Something+New...)](https://git.io/typing-svg)
