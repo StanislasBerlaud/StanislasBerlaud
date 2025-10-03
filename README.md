@@ -25,7 +25,7 @@
 ## About Me :
 
 ```plaintext
-> First-year computer science student. ✌
+> Second-year computer science student. ✌
 > Passionate about development, technology and problem solving.
 > Curious, motivated, and always improving.
 
