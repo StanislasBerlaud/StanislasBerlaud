@@ -31,7 +31,7 @@
 ## About Me :
 
 ```plaintext
-> Second-year computer science student. ✌
+> Third-year computer science student. ✌
 > Passionate about development, technology and problem solving.
 > Curious, motivated, and always improving.
 
